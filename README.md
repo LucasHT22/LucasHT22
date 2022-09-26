@@ -14,11 +14,11 @@ Always willing to help ;)
 
 ## Languages
 - Portuguese - BR
-  Fluent
+  >Fluent
 - English
-  Intermediate
+  >Intermediate
 - Spanish
-  Basic
+  >Basic
 
 ![Snake animation](https://github.com/LucasHT22/LucasHT22/blob/output/github-contribution-grid-snake.svg)
 
