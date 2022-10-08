@@ -19,6 +19,8 @@ Always willing to help ;)
   >Intermediate
 - Spanish
   >Basic
+ 
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHT22&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/LucasHT22)  
 
 ![Snake animation](https://github.com/LucasHT22/LucasHT22/blob/output/github-contribution-grid-snake.svg)
 
