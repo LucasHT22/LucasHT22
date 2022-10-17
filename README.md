@@ -19,6 +19,10 @@ Always willing to help ;)
   >Intermediate
 - Spanish
   >Basic
+- Latin
+  >Basic
+- Esperanto
+  >Basic
  
 [![ GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHT22&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/LucasHT22)  
 
