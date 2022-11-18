@@ -24,11 +24,14 @@ Always willing to help ;)
   >Basic
 - Esperanto
   >Basic
- 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasHT22&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/LucasHT22)  
 
-![Snake animation](https://github.com/LucasHT22/LucasHT22/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasHT22&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true">
 
+<p align="center">
+  <img src="https://github.com/LucasHT22/LucasHT22/blob/output/github-contribution-grid-snake.svg">
+</p>
+  
 <p align="center">
     <img width="800" src="https://activity-graph.herokuapp.com/graph?username=LucasHT22&theme=react-dark">
 </p>
