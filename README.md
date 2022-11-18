@@ -29,3 +29,6 @@ Always willing to help ;)
 
 ![Snake animation](https://github.com/LucasHT22/LucasHT22/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+    <img width="800" src="https://activity-graph.herokuapp.com/graph?username=LucasHT22&theme=react-dark">
+</p>
