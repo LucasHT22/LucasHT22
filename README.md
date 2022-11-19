@@ -35,5 +35,3 @@ Always willing to help ;)
 <p align="center">
     <img width="800" src="https://activity-graph.herokuapp.com/graph?username=LucasHT22&theme=react-dark">
 </p>
-
-<img src="https://raw.githubusercontent.com/LucasHT22-forks/LucasHT22-metrics/main/github-metrics.svg">
