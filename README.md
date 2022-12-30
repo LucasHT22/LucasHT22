@@ -30,7 +30,7 @@ Always willing to help ;)
   [![An image of @_lucas_honda's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/_lucas_honda)](https://holopin.io/@_lucas_honda)
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-  <src img="https://github-profile-trophy.vercel.app/?username=LucasHT22&column=8&margin-w=10&no-frame=true" alt="LucasHT22" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=LucasHT22&column=8&margin-w=10&no-frame=true" alt="LucasHT22"/></a>
 </p>
 
 <p align="center">
