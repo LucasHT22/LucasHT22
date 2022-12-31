@@ -33,7 +33,7 @@ Always willing to help ;)
 # Stats
 
 <p align="center">
-  <img alt="An image of @_lucas_honda's Holopin badges, which is a link to view their full Holopin profile" src="https://holopin.me/_lucas_honda" url="https://holopin.io/@_lucas_honda" />
+  <img alt="An image of @_lucas_honda's Holopin badges, which is a link to view their full Holopin profile" src="https://holopin.me/_lucas_honda" />
 </p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
