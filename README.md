@@ -11,8 +11,6 @@
 
 I'm interested in programming and aviation
 
-I am in charge of a teaching group from students to students, the GE
-
 Always willing to help ;)
 
 📚I'm a CS50 student
