@@ -7,6 +7,14 @@
 [![](https://cloud-8ohhqgghu-hack-club-bot.vercel.app/0image.png)](https://www.tripadvisor.com/Attraction_Review-g303631-d550339-Reviews-Paulista_Avenue-Sao_Paulo_State_of_Sao_Paulo.html#/media-atf/550339/412735725:p/?albumid=-160&type=0&category=-160)
 
 <h1></h1>
+
+<div align="center">
+<h3>ETEC Zona Leste Student</h3>
+<h3>Sprig App Review Manager @ HackClub</h3>
+</div>
+
+<h1></h1>
+
 I'm interested in programming and aviation
 
 Always willing to help ;)
