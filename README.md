@@ -9,8 +9,10 @@
 <h1></h1>
 
 <div align="center">
+
 <h3>ETEC Zona Leste Student</h3>
 <h3>Sprig App Review Manager @ HackClub</h3>
+<h3>Prev. <a href="https://scratch.mit.edu/">Scratch</a> Teacher (worked with Google CS First Curriculum | Volunteer) & Operations Manager @ GE (volunteer)</h3>
 </div>
 
 <h1></h1>
