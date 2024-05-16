@@ -16,10 +16,6 @@
 
 <h1></h1>
 
-I'm interested in programming and aviation
-
-Always willing to help ;)
-
 ## Languages
 - Portuguese - BR
   >Fluent/Native
