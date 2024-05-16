@@ -1,4 +1,3 @@
-![](https://cloud-rei0btppx-hack-club-bot.vercel.app/020230227_164252.jpg)
 
 <div align="center">
 <h1>From <a href="https://en.wikipedia.org/wiki/S%C3%A3o_Paulo">Sao Paulo</a> to the world!</h1>
@@ -11,8 +10,8 @@
 <div align="center">
 
 <h3>ETEC Zona Leste Student</h3>
-<h3>Sprig App Review Manager @ HackClub</h3>
-<h3>Prev. <a href="https://scratch.mit.edu/">Scratch</a> Teacher (worked with Google CS First Curriculum | Volunteer) & Operations Manager @ GE (volunteer)</h3>
+<h3><a href="https://github.com/hackclub/sprig">Sprig</a> App Review Manager @ <a href="https://hackclub.com">HackClub</a></h3>
+<h3>Prev. <a href="https://scratch.mit.edu/">Scratch</a> Teacher (worked with Google CS First Curriculum | Volunteer) & Operations Manager @ GE Educacional (volunteer)</h3>
 </div>
 
 <h1></h1>
