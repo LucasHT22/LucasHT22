@@ -8,9 +8,11 @@
 <h1></h1>
 <div align="center">
 Lattes iD
-http://lattes.cnpq.br/9481316874165016
+<a href="https://lattes.cnpq.br/9481316874165016">lattes.cnpq.br/9481316874165016</a>
 Orcid iD
-https://orcid.org/0009-0007-5140-6384
+<a href="https://orcid.org/0009-0007-5140-6384">orcid.org/0009-0007-5140-6384</a>
+Google Developers iD
+<a href="https://g.dev/lht">g.dev/lht</a>
 </div>
 <h2>Currently:</h2>
 
