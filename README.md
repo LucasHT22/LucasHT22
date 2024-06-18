@@ -21,11 +21,10 @@ Google Developers iD
 <ul>
   <li>Student (Feb. 2024 - present)</li>
 </ul>
-<h3><a href="https://github.com/hackclub/sprig">Sprig</a> App Review Manager @ <a href="https://hackclub.com">HackClub</a></h3>
+<h3><a href="https://github.com/hackclub/sprig">Sprig</a> App Reviewer @ <a href="https://hackclub.com">HackClub</a></h3>
 <p>More than 400 pull requests reviewed!</p>
 <ul>
-  <li>Sprig App Review Manager (Nov. 2023 - present)</li>
-  <li>Sprig Reviewer (Sep. 2022 - Nov. 2023)</li>
+  <li>Sprig Reviewer (Sep. 2022 - present)</li>
 </ul>
 
 <h2>Previously:</h2>
@@ -33,10 +32,10 @@ Google Developers iD
 <ul>
   <li>Operations Manager (Nov. 2021 - Dez. 2023)</li>
 </ul>
-<h3><a href="https://scratch.mit.edu/">Scratch</a> Teacher Independent</h3>
+<h3><a href="https://scratch.mit.edu/">Scratch</a> Independent Tutor</h3>
 <p>Google CS First Curriculum</p>
 <ul>
-  <li>Teacher (Jul. 2021 - Jul. 2022)</li>
+  <li>Tutor (Jul. 2021 - Jul. 2022)</li>
 </ul>
 
 ## Languages
