@@ -17,7 +17,7 @@ Google Developers iD
 <h2>Currently:</h2>
 
 <h3>ETEC Zona Leste Student</h3>
-<p>1st year of Systems Devlopment (<a href="https://www.cps.sp.gov.br/tipo-curso-etec/novotec_habilitacao_tecnica_profissional/">Ensino Médio integrado ao técnico</a> de <a href="https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/">Desenvolvimento de Sistemas</a>)</p>
+<p>2nd year of Systems Devlopment (<a href="https://www.cps.sp.gov.br/tipo-curso-etec/novotec_habilitacao_tecnica_profissional/">Ensino Médio integrado ao técnico</a> de <a href="https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/">Desenvolvimento de Sistemas</a>)</p>
 <ul>
   <li>Student (Feb. 2024 - present)</li>
 </ul>
