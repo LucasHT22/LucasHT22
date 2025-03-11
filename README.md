@@ -14,29 +14,6 @@ Orcid iD
 Google Developers iD
 <a href="https://g.dev/lht">g.dev/lht</a>
 </div>
-<h2>Currently:</h2>
-
-<h3>ETEC Zona Leste Student</h3>
-<p>2nd year of Systems Devlopment (<a href="https://www.cps.sp.gov.br/tipo-curso-etec/novotec_habilitacao_tecnica_profissional/">Ensino Médio integrado ao técnico</a> de <a href="https://www.cps.sp.gov.br/cursos-etec/desenvolvimento-de-sistemas/">Desenvolvimento de Sistemas</a>)</p>
-<ul>
-  <li>Student (Feb. 2024 - present)</li>
-</ul>
-<h3><a href="https://github.com/hackclub/sprig">Sprig</a> App Reviewer @ <a href="https://hackclub.com">HackClub</a></h3>
-<p>More than 400 pull requests reviewed!</p>
-<ul>
-  <li>Sprig Reviewer (Sep. 2022 - present)</li>
-</ul>
-
-<h2>Previously:</h2>
-<h3>Operations Manager @ GE Educacional</h3>
-<ul>
-  <li>Operations Manager (Nov. 2021 - Dez. 2023)</li>
-</ul>
-<h3><a href="https://scratch.mit.edu/">Scratch</a> Independent Tutor</h3>
-<p>Google CS First Curriculum</p>
-<ul>
-  <li>Tutor (Jul. 2021 - Jul. 2022)</li>
-</ul>
 
 ## Languages
 - Portuguese - BR
