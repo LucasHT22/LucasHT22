@@ -15,14 +15,6 @@ Google Developers iD
 <a href="https://g.dev/lht">g.dev/lht</a>
 </div>
 
-## Languages
-- Portuguese - BR
-  >Fluent/Native
-- English
-  >Intermediate
-- Spanish
-  >Basic
-
   
 # Stats
 
