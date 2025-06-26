@@ -6,14 +6,6 @@
 [![](https://cloud-8ohhqgghu-hack-club-bot.vercel.app/0image.png)](https://www.tripadvisor.com/Attraction_Review-g303631-d550339-Reviews-Paulista_Avenue-Sao_Paulo_State_of_Sao_Paulo.html#/media-atf/550339/412735725:p/?albumid=-160&type=0&category=-160)
 
 <h1></h1>
-<div align="center">
-Lattes iD
-<a href="https://lattes.cnpq.br/9481316874165016">lattes.cnpq.br/9481316874165016</a>
-Orcid iD
-<a href="https://orcid.org/0009-0007-5140-6384">orcid.org/0009-0007-5140-6384</a>
-Google Developers iD
-<a href="https://g.dev/lht">g.dev/lht</a>
-</div>
 
   
 # Stats
