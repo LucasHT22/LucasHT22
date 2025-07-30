@@ -18,11 +18,17 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LucasHT22&column=8&margin-w=10&no-frame=true" alt="LucasHT22"/></a>
 </p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=1083&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="LucasHT22"/></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasHT22&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true"/>
 </p>
+
+<h1 align="center">
+  It takes a long time to build something good
+  <br /><br />
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=1083&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="LucasHT22"/></a>
+</h1>
 
