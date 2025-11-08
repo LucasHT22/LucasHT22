@@ -30,6 +30,8 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LucasHT22&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
+<h1></h1>
+
 <h1 align="center">
   It takes a long time to build something good
   <br /><br />
